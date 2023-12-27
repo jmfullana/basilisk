@@ -1,0 +1,22 @@
+advection.s:	\
+	/Users/jmf/sources/basilisk_1/src/advection.h \
+	/Users/jmf/sources/basilisk_1/src/run.h \
+	/Users/jmf/sources/basilisk_1/src/timestep.h \
+	/Users/jmf/sources/basilisk_1/src/tracer.h \
+	/Users/jmf/sources/basilisk_1/src/bcg.h \
+	/Users/jmf/sources/basilisk_1/src/utils.h \
+	/Users/jmf/sources/basilisk_1/src/output.h \
+	/Users/jmf/sources/basilisk_1/src/grid/quadtree.h \
+	/Users/jmf/sources/basilisk_1/src/grid/tree.h \
+	/Users/jmf/sources/basilisk_1/src/grid/mempool.h \
+	/Users/jmf/sources/basilisk_1/src/grid/foreach_cell.h \
+	/Users/jmf/sources/basilisk_1/src/grid/neighbors.h \
+	/Users/jmf/sources/basilisk_1/src/grid/tree-common.h \
+	/Users/jmf/sources/basilisk_1/src/grid/tree-mpi.h \
+	/Users/jmf/sources/basilisk_1/src/grid/balance.h \
+	/Users/jmf/sources/basilisk_1/src/grid/multigrid-common.h \
+	/Users/jmf/sources/basilisk_1/src/grid/cartesian-common.h \
+	/Users/jmf/sources/basilisk_1/src/grid/events.h \
+	/Users/jmf/sources/basilisk_1/src/grid/fpe.h \
+	/Users/jmf/sources/basilisk_1/src/common.h \
+
